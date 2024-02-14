@@ -98,7 +98,7 @@
 		D1A577DC2B75A7350054C7F6 /* tennisscorekeeper Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tennisscorekeeper Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1A577E02B75A7350054C7F6 /* tennisscorekeeper_Watch_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tennisscorekeeper_Watch_AppUITests.swift; sourceTree = "<group>"; };
 		D1A577E22B75A7350054C7F6 /* tennisscorekeeper_Watch_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tennisscorekeeper_Watch_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		D1A577F92B75C3810054C7F6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D1A577F92B75C3810054C7F6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "tennisscorekeeper Watch AppUITests/README.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +150,7 @@
 		D1A577912B75A7330054C7F6 = {
 			isa = PBXGroup;
 			children = (
+				D1A577F92B75C3810054C7F6 /* README.md */,
 				D1A5779C2B75A7330054C7F6 /* tennisscorekeeper */,
 				D1A577AD2B75A7340054C7F6 /* tennisscorekeeperTests */,
 				D1A577B72B75A7340054C7F6 /* tennisscorekeeperUITests */,
@@ -239,7 +240,6 @@
 		D1A577DF2B75A7350054C7F6 /* tennisscorekeeper Watch AppUITests */ = {
 			isa = PBXGroup;
 			children = (
-				D1A577F92B75C3810054C7F6 /* README.md */,
 				D1A577E02B75A7350054C7F6 /* tennisscorekeeper_Watch_AppUITests.swift */,
 				D1A577E22B75A7350054C7F6 /* tennisscorekeeper_Watch_AppUITestsLaunchTests.swift */,
 			);
